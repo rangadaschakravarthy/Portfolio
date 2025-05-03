@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
             Hello, I'm Chakravarthy Rangadas
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-600 dark:text-gray-300 mb-8 animate-fade-in animation-delay-200">
-            Full Stack Developer
+            Student, Anurag University
           </h2>
           <p className="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8 leading-relaxed animate-fade-in animation-delay-400">
             I build modern web applications with cutting-edge technologies.
